@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neon Classroom", "Neon Classroom\Neon Classroom.csproj", "{4D8F7E05-B987-4817-AEE8-70753AF2B2E9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Neon Classroom Steup", "Neon Classroom Steup\Neon Classroom Steup.vdproj", "{523BE386-1E71-4DB7-B2B7-BD81FF2199A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D8F7E05-B987-4817-AEE8-70753AF2B2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8F7E05-B987-4817-AEE8-70753AF2B2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8F7E05-B987-4817-AEE8-70753AF2B2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8F7E05-B987-4817-AEE8-70753AF2B2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523BE386-1E71-4DB7-B2B7-BD81FF2199A8}.Debug|Any CPU.ActiveCfg = Debug
+		{523BE386-1E71-4DB7-B2B7-BD81FF2199A8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {645DBCDE-5A4D-4B4D-8E14-AC807D49F0BC}
+	EndGlobalSection
+EndGlobal

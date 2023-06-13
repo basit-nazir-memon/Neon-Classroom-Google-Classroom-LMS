@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="studentsDataset" targetNamespace="http://tempuri.org/studentsDataset.xsd" xmlns:mstns="http://tempuri.org/studentsDataset.xsd" xmlns="http://tempuri.org/studentsDataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DBLabConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBLabConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Neon_Classroom.Properties.Settings.GlobalReference.Default.DBLabConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="studentReportTableAdapter" GeneratorDataComponentClassName="studentReportTableAdapter" Name="studentReport" UserDataComponentName="studentReportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBLabConnectionString (Settings)" DbObjectName="DBLab.dbo.studentReport" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT name, announcements, comments, assignmentsSubmitted, assignmentsMissing, dob FROM dbo.studentReport</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="name" DataSetColumn="name" />
+              <Mapping SourceColumn="announcements" DataSetColumn="announcements" />
+              <Mapping SourceColumn="comments" DataSetColumn="comments" />
+              <Mapping SourceColumn="assignmentsSubmitted" DataSetColumn="assignmentsSubmitted" />
+              <Mapping SourceColumn="assignmentsMissing" DataSetColumn="assignmentsMissing" />
+              <Mapping SourceColumn="dob" DataSetColumn="dob" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="DBLabConnectionString (Settings)" DbObjectName="DBLab.dbo.studentReport" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Fill" GenerateShortCommands="true" GeneratorSourceName="FillBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT name, announcements, comments, assignmentsSubmitted, assignmentsMissing, dob FROM dbo.studentReport</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="studentsDataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="studentsDataset" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="studentsDataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="studentReport" msprop:Generator_RowClassName="studentReportRow" msprop:Generator_RowEvHandlerName="studentReportRowChangeEventHandler" msprop:Generator_RowDeletedName="studentReportRowDeleted" msprop:Generator_RowDeletingName="studentReportRowDeleting" msprop:Generator_RowEvArgName="studentReportRowChangeEvent" msprop:Generator_TablePropName="studentReport" msprop:Generator_RowChangedName="studentReportRowChanged" msprop:Generator_UserTableName="studentReport" msprop:Generator_RowChangingName="studentReportRowChanging" msprop:Generator_TableClassName="studentReportDataTable" msprop:Generator_TableVarName="tablestudentReport">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" msdata:ReadOnly="true" msprop:Generator_UserColumnName="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnVarNameInTable="columnname" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="511" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="announcements" msdata:ReadOnly="true" msprop:Generator_UserColumnName="announcements" msprop:Generator_ColumnPropNameInTable="announcementsColumn" msprop:Generator_ColumnPropNameInRow="announcements" msprop:Generator_ColumnVarNameInTable="columnannouncements" type="xs:int" minOccurs="0" />
+              <xs:element name="comments" msdata:ReadOnly="true" msprop:Generator_UserColumnName="comments" msprop:Generator_ColumnPropNameInTable="commentsColumn" msprop:Generator_ColumnPropNameInRow="comments" msprop:Generator_ColumnVarNameInTable="columncomments" type="xs:int" minOccurs="0" />
+              <xs:element name="assignmentsSubmitted" msdata:ReadOnly="true" msprop:Generator_UserColumnName="assignmentsSubmitted" msprop:Generator_ColumnPropNameInTable="assignmentsSubmittedColumn" msprop:Generator_ColumnPropNameInRow="assignmentsSubmitted" msprop:Generator_ColumnVarNameInTable="columnassignmentsSubmitted" type="xs:int" minOccurs="0" />
+              <xs:element name="assignmentsMissing" msdata:ReadOnly="true" msprop:Generator_UserColumnName="assignmentsMissing" msprop:Generator_ColumnPropNameInTable="assignmentsMissingColumn" msprop:Generator_ColumnPropNameInRow="assignmentsMissing" msprop:Generator_ColumnVarNameInTable="columnassignmentsMissing" type="xs:int" minOccurs="0" />
+              <xs:element name="dob" msprop:Generator_UserColumnName="dob" msprop:Generator_ColumnPropNameInTable="dobColumn" msprop:Generator_ColumnPropNameInRow="dob" msprop:Generator_ColumnVarNameInTable="columndob" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

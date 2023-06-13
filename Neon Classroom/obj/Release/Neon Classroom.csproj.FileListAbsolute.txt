@@ -1,0 +1,94 @@
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Neon Classroom.exe.config
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Neon Classroom.exe
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Neon Classroom.pdb
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Microsoft.SqlServer.Types.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\EnvDTE.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\stdole.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\Interop.AcroPDFLib.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\bin\Release\AxInterop.AcroPDFLib.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon Classroom.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon Classroom.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Interop.AcroPDFLib.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\AxInterop.AcroPDFLib.dll
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon Classroom.csproj.ResolveComReference.cache
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.ArchievedClassess.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.ForgotPassword.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.PDF.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.AssignmentReport.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.StudentReport.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.ViewAssignment.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.JoinClass.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.EditMaterial.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.EditAssignment.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.EditAnnouncement.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Comments.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Material.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Assignment.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.ManageGrade.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Grade.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Person.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Classwork.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Profile.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Stream.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.CreateClass.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Class.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Classess.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.StudentPanel.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.TeacherPanel.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.SignUp.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Login.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon_Classroom.Properties.Resources.resources
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon Classroom.csproj.GenerateResource.cache
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon Classroom.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon Classroom.csproj.CopyComplete
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon Classroom.exe
+E:\Visual Studio Projects\Neon Classroom\Neon Classroom\obj\Release\Neon Classroom.pdb
